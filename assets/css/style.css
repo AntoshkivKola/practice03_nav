@@ -7,10 +7,6 @@ a{
   color: inherit;
 }
 
-ul{
-  list-style: none;
-  padding: 0;
-}
 p{
   margin-top: 100px;
 }
@@ -43,6 +39,8 @@ p{
   right: 0;
   display: none;
 }
+
+/* This style is all i added */
 .second-sub-nav{
   top:0;
   right: auto;
